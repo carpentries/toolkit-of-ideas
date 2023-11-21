@@ -4,7 +4,7 @@
 * [Inclusion](https://github.com/carpentries/toolkit-of-ideas/blob/main/Inclusion.md)
 * [Diversity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Diversity.md) 
 * [Equity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Equity.md)
-* [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility)
+* [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility,md)
 
 
 ### How you can get involved
