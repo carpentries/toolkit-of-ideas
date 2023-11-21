@@ -1,6 +1,11 @@
 # Inclusion
 
-
+* [Introduction](https://github.com/carpentries/toolkit-of-ideas/blob/main/Introduction.md)
+* [Diversity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Diversity.md) 
+* [Equity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Equity.md)
+* [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility)
+* [Next steps](https://github.com/carpentries/toolkit-of-ideas/blob/main/Next-Steps.md)
+  
 ## Definition
 
 Inclusion is about how people feel. It is creating an atmosphere where learners feel a sense of belonging. Most of us know what it is like to feel included, and most of us have also experienced the feeling of not feeling included, too. 
