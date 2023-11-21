@@ -1,5 +1,11 @@
 # Equity 
 
+* [Introduction](https://github.com/carpentries/toolkit-of-ideas/blob/main/Introduction.md)
+* [Inclusion](https://github.com/carpentries/toolkit-of-ideas/blob/main/Inclusion.md)
+* [Diversity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Diversity.md) 
+* [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility)
+* [Next steps](https://github.com/carpentries/toolkit-of-ideas/blob/main/Next-Steps.md) 
+
 
 ## Definition
 
