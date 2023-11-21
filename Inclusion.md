@@ -3,7 +3,7 @@
 * [Introduction](https://github.com/carpentries/toolkit-of-ideas/blob/main/Introduction.md)
 * [Diversity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Diversity.md) 
 * [Equity](https://github.com/carpentries/toolkit-of-ideas/blob/main/Equity.md)
-* [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility)
+* [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility.md)
 * [Next steps](https://github.com/carpentries/toolkit-of-ideas/blob/main/Next-Steps.md)
   
 ## Definition
