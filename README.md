@@ -10,3 +10,4 @@ We've established a dedicated space on GitHub to serve as the home for the Toolk
 * [Accessibility](https://github.com/carpentries/toolkit-of-ideas/blob/main/Accessibility.md)
 * [Next steps](https://github.com/carpentries/toolkit-of-ideas/blob/main/Next-Steps.md) 
 
+The original version of The Toolkit of IDEAS published in 2022 can be found on [Zenodo](https://zenodo.org/records/7041935#.Y--_MWnMJD9). 
